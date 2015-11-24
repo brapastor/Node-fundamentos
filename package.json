@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/brapastor/Node-fundamentos/issues"
   },
-  "homepage": "https://github.com/brapastor/Node-fundamentos"
+  "homepage": "https://github.com/brapastor/Node-fundamentos",
+  "dependencies": {
+    "express": "^4.13.3"
+  }
 }

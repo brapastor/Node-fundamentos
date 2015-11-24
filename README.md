@@ -4,4 +4,6 @@ Proyecto de cero
  (aca configuras tu proyecto y este te crea el archivo package.json)
  npm init
  
- 
+ 2.- configuramos server
+ 3.- instalacion de express
+ npm install express --save
