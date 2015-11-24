@@ -6,7 +6,7 @@ var express = require('express'),
 
 //region Declarar url
 server.get('/',function(req,res){
-   res.send('hello wachin');
+   res.send('hello wacissn');
 });
 
 server.get('/otra-url/',function(req,res){
